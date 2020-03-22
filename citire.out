@@ -1,0 +1,54 @@
+100 32757
+sort function: Timpul rularii programului este:0.000000 seconds
+Vectorul este sortat
+bubble_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+count_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+radix_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+mergesort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+quicksort: Timpul rularii programului este:0.00000 seconds
+
+
+101 3258391
+sort function: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+bubble_sort: Timpul rularii programului este:0.00000 seconds
+count_sort nu functioneaza
+Vectorul este sortat
+radix_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+mergesort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+quicksort: Timpul rularii programului este:0.00000 seconds
+
+
+98 2328111
+sort function: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+bubble_sort: Timpul rularii programului este:0.00000 seconds
+count_sort nu functioneaza
+Vectorul este sortat
+radix_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+mergesort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+quicksort: Timpul rularii programului este:0.00000 seconds
+
+
+300 32757
+sort function: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+bubble_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+count_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+radix_sort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+mergesort: Timpul rularii programului este:0.00000 seconds
+Vectorul este sortat
+quicksort: Timpul rularii programului este:0.00000 seconds
+
+
